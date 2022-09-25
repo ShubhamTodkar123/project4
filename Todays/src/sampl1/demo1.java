@@ -5,7 +5,7 @@ public class demo1 {
 		
 		
 		
-		System.out.println("hi");
+		System.out.println("hellow");
 	}
 
 }
